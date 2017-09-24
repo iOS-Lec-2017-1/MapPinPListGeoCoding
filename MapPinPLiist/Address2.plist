@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 남구 용호3동 이기대공원로 105-20</string>
+		<key>title</key>
+		<string>이기대</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 광안2동</string>
+		<key>title</key>
+		<string>광안리 바닷가</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 해운대구 우동 783-1</string>
+		<key>title</key>
+		<string>해운대 동백섬</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>부산광역시 해운대구 중2동 444</string>
+		<key>title</key>
+		<string>달맞이길</string>
+	</dict>
+</array>
+</plist>
