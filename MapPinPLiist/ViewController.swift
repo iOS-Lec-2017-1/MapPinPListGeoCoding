@@ -87,6 +87,28 @@ class ViewController: UIViewController, MKMapViewDelegate {
 
     }
     
+    
+//    func mapView(_ mapView: MKMapView, rendererFor overlay: MKOverlay) -> MKOverlayRenderer {
+//        let pr = MKPolylineRenderer(overlay: overlay);
+//                    pr.strokeColor = UIColor.orange.withAlphaComponent(0.5);
+//                    pr.lineWidth = 5;
+//                    return pr;
+//    }
+    
+    
+    
+//    func mapView(mapView: MKMapView!, viewForOverlay overlay: MKOverlay!) -> MKOverlayRenderer! {
+//        
+//        if (overlay is MKPolyline) {
+//            let pr = MKPolylineRenderer(overlay: overlay);
+//            pr.strokeColor = UIColor.orange.withAlphaComponent(0.5);
+//            pr.lineWidth = 5;
+//            return pr;
+//        }
+//        
+//        return nil
+//    }
+    
 //    func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
 //        
 //        let identifier = "MyPin"
