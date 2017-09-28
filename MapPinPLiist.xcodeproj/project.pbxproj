@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		052888591F77EBF0008F5B5B /* Address2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 052888581F77EBF0008F5B5B /* Address2.plist */; };
-		0545C2E61F72B6AD005A7338 /* Address.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0545C2E51F72B6AD005A7338 /* Address.plist */; };
 		05B13A881F6E54C200669037 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B13A871F6E54C200669037 /* AppDelegate.swift */; };
 		05B13A8A1F6E54C200669037 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B13A891F6E54C200669037 /* ViewController.swift */; };
 		05B13A8D1F6E54C200669037 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 05B13A8B1F6E54C200669037 /* Main.storyboard */; };
@@ -18,12 +17,10 @@
 		05B13A9F1F6E794100669037 /* DIT_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B13A9E1F6E794100669037 /* DIT_logo.png */; };
 		05B13AA11F6E795F00669037 /* citizen_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B13AA01F6E795F00669037 /* citizen_logo.png */; };
 		05B13AA31F6E7B8500669037 /* Songsang.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B13AA21F6E7B8500669037 /* Songsang.png */; };
-		05B26F3D1F70AE1C00608322 /* ViewPoint2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		052888581F77EBF0008F5B5B /* Address2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Address2.plist; sourceTree = "<group>"; };
-		0545C2E51F72B6AD005A7338 /* Address.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Address.plist; path = ../Address.plist; sourceTree = "<group>"; };
 		05B13A841F6E54C200669037 /* MapPinPLiist.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapPinPLiist.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		05B13A871F6E54C200669037 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		05B13A891F6E54C200669037 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,7 +32,6 @@
 		05B13A9E1F6E794100669037 /* DIT_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DIT_logo.png; sourceTree = "<group>"; };
 		05B13AA01F6E795F00669037 /* citizen_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = citizen_logo.png; sourceTree = "<group>"; };
 		05B13AA21F6E7B8500669037 /* Songsang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Songsang.png; sourceTree = "<group>"; };
-		05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ViewPoint2.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,14 +66,12 @@
 		05B13A861F6E54C200669037 /* MapPinPLiist */ = {
 			isa = PBXGroup;
 			children = (
-				0545C2E51F72B6AD005A7338 /* Address.plist */,
 				05B13AA21F6E7B8500669037 /* Songsang.png */,
 				05B13AA01F6E795F00669037 /* citizen_logo.png */,
 				05B13A9E1F6E794100669037 /* DIT_logo.png */,
 				05B13A871F6E54C200669037 /* AppDelegate.swift */,
 				05B13A891F6E54C200669037 /* ViewController.swift */,
 				052888581F77EBF0008F5B5B /* Address2.plist */,
-				05B26F3C1F70AE1C00608322 /* ViewPoint2.plist */,
 				05B13A8B1F6E54C200669037 /* Main.storyboard */,
 				05B13A8E1F6E54C200669037 /* Assets.xcassets */,
 				05B13A901F6E54C200669037 /* LaunchScreen.storyboard */,
@@ -159,8 +153,6 @@
 				052888591F77EBF0008F5B5B /* Address2.plist in Resources */,
 				05B13A9F1F6E794100669037 /* DIT_logo.png in Resources */,
 				05B13A8F1F6E54C200669037 /* Assets.xcassets in Resources */,
-				05B26F3D1F70AE1C00608322 /* ViewPoint2.plist in Resources */,
-				0545C2E61F72B6AD005A7338 /* Address.plist in Resources */,
 				05B13AA11F6E795F00669037 /* citizen_logo.png in Resources */,
 				05B13A8D1F6E54C200669037 /* Main.storyboard in Resources */,
 			);
